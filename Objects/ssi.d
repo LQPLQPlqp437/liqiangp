@@ -1,0 +1,11 @@
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\driverlib\ssi.c
+.\objects\ssi.o: D:\keil5\Keil5\ARM\ARMCompiler_506_960\Bin\..\include\stdbool.h
+.\objects\ssi.o: D:\keil5\Keil5\ARM\ARMCompiler_506_960\Bin\..\include\stdint.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\inc\hw_ints.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\inc\hw_memmap.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\inc\hw_ssi.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\inc\hw_sysctl.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\inc\hw_types.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\driverlib\debug.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\driverlib\interrupt.h
+.\objects\ssi.o: ..\..\Drivers\TM4C123G_Driver\driverlib\ssi.h
